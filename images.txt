@@ -1,7 +1,6 @@
 nginx:1.26.0
 node:16.17.1-alpine3.15
 openjdk:9-b170-jdk
-mysql:5.7.6
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #支持指定架构
